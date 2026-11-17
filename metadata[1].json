@@ -1,0 +1,6 @@
+{
+  "name": "Airbrush Drawing",
+  "description": "Touchless hand-gesture airbrush studio powered by real-time neural hand-landmark tracking and particle atomization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
